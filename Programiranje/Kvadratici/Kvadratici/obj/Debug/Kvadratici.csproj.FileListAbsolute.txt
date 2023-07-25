@@ -1,0 +1,18 @@
+C:\Users\Programiranje 4-3\AppData\Local\Temporary Projects\Kvadratici\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programiranje 4-3\AppData\Local\Temporary Projects\Kvadratici\obj\Debug\Kvadratici.Form1.resources
+C:\Users\Programiranje 4-3\AppData\Local\Temporary Projects\Kvadratici\obj\Debug\Kvadratici.Properties.Resources.resources
+C:\Users\Programiranje 4-3\AppData\Local\Temporary Projects\Kvadratici\obj\Debug\Kvadratici.csproj.GenerateResource.Cache
+C:\Users\Programiranje 4-3\AppData\Local\Temporary Projects\Kvadratici\bin\Debug\Kvadratici.exe
+C:\Users\Programiranje 4-3\AppData\Local\Temporary Projects\Kvadratici\bin\Debug\Kvadratici.pdb
+C:\Users\Programiranje 4-3\AppData\Local\Temporary Projects\Kvadratici\obj\Debug\Kvadratici.exe
+C:\Users\Programiranje 4-3\AppData\Local\Temporary Projects\Kvadratici\obj\Debug\Kvadratici.pdb
+H:\4. godina\Programiranje\Kvadratici\Kvadratici\obj\Debug\Kvadratici.exe
+H:\4. godina\Programiranje\Kvadratici\Kvadratici\obj\Debug\Kvadratici.pdb
+H:\4. godina\Programiranje\Kvadratici\Kvadratici\bin\Debug\Kvadratici.exe
+H:\4. godina\Programiranje\Kvadratici\Kvadratici\bin\Debug\Kvadratici.pdb
+H:\4. godina\Programiranje\Kvadratici\Kvadratici\obj\Debug\ResolveAssemblyReference.cache
+H:\4. godina\Programiranje\Kvadratici\Kvadratici\obj\Debug\Kvadratici.Form1.resources
+H:\4. godina\Programiranje\Kvadratici\Kvadratici\obj\Debug\Kvadratici.Properties.Resources.resources
+H:\4. godina\Programiranje\Kvadratici\Kvadratici\obj\Debug\Kvadratici.csproj.GenerateResource.Cache
+E:\4. godina\Programiranje\Kvadratici\Kvadratici\obj\Debug\Kvadratici.exe
+E:\4. godina\Programiranje\Kvadratici\Kvadratici\obj\Debug\Kvadratici.pdb

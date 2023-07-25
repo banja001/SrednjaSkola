@@ -1,0 +1,12 @@
+C:\Users\Programiranje 4-3\Desktop\Oblik\Oblik\bin\Debug\Oblik.exe
+C:\Users\Programiranje 4-3\Desktop\Oblik\Oblik\bin\Debug\Oblik.pdb
+C:\Users\Programiranje 4-3\Desktop\Oblik\Oblik\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programiranje 4-3\Desktop\Oblik\Oblik\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Programiranje 4-3\Desktop\Oblik\Oblik\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Programiranje 4-3\Desktop\Oblik\Oblik\obj\Debug\Oblik.csproj.GenerateResource.Cache
+C:\Users\Programiranje 4-3\Desktop\Oblik\Oblik\obj\Debug\Oblik.exe
+C:\Users\Programiranje 4-3\Desktop\Oblik\Oblik\obj\Debug\Oblik.pdb
+H:\4. godina\Programiranje\Oblik\Oblik\obj\Debug\Oblik.exe
+H:\4. godina\Programiranje\Oblik\Oblik\obj\Debug\Oblik.pdb
+E:\4. godina\Programiranje\Oblik\Oblik\obj\Debug\Oblik.exe
+E:\4. godina\Programiranje\Oblik\Oblik\obj\Debug\Oblik.pdb
