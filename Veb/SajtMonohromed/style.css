@@ -1,0 +1,297 @@
+.container{
+	width: 1000px;
+	height: 2000px;
+	margin: auto;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.header{
+	height:400px;
+	background-image:url("images/header.jpg");
+	position: relative;
+}
+.naslov1{
+	color: #444444;
+	margin-left: 293px;
+	margin-top: 110px;
+	position: absolute;
+	font-size: 50px;
+	font-weight: strong;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.podnaslov1{
+	color: #5b5a5a;
+	margin-top: 22px;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	position: absolute;
+	left: 0;
+    top: 35%;
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+	font-weight: strong;
+}
+ul {
+	
+    list-style-type: none;
+    margin-left: 205px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1c1c1c;
+	top: 50%;
+	position: absolute;
+	border-radius: 100px;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 12px;
+	
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: gray;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #1c1c1c;
+	color: white;
+}
+.deo1{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	height: 500px;
+	margin-left: 20px;
+}
+.slika {
+    margin: 5px;
+    float: left;
+    width: 230px;
+	border-radius:10px;
+}
+.slika img {
+    width: 100%;
+    height: auto;
+	border-radius:10px;
+
+}
+.tekst {
+    padding: 15px;
+    text-align: left;
+	
+}
+.dugme{
+	float: left;
+	position: relative;
+	display: inline-block;
+	margin-top: 40px;
+	padding: 20px 30px;
+	background-color: #1c1c1c;
+	border-radius: 5px;
+	text-decoration: none;
+	color: white;
+	float:center;
+	margin-left:0px;
+}
+.dugme:hover{
+	background: #1c1c1c;
+	color: #FFF;
+}
+.linija{
+	margin-left: 20px;
+	width: 970px;
+}
+.deo2{
+	margin-left: 20px;
+	margin-top: 30px;
+	width: 650px;
+	float: left;
+}
+.podnaslov3{
+	
+	color:  gray;
+	font-size: 13px;
+}
+.slika1{
+	margin-top: 50px;
+	
+}
+.slika1 img{
+	border-radius: 10px;
+}
+.tekst1{
+	width: 650px;
+	text-align: left;
+	margin-top: 10px;
+	font-size: 14px;
+}
+.crvena{
+	color: red;
+}
+.deo3{
+	float: left;
+	width: 300px;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+.podnaslov4{
+	margin-top: 31px;
+	font-size: 13px;
+	color: gray;
+}
+.tekst2{
+	color: gray;
+	margin-top: 50px;
+}
+.linkovi{
+	margin-top: 50px;
+}
+.druga{
+	font-size: 15px;
+}
+.footer{
+	margin-top: 40px;
+	background-color:#212121;
+	height: 550px;
+	float: left;
+}
+.tekst11{
+	margin-left: 10px;
+	float: left;
+	width: 135px;
+	font-size: 13px;
+	margin-top: 15px;
+}
+.kom{
+	font-size: 14px;
+	float: left;
+	padding-top: 10px;
+}
+.para1{
+	padding-top: 50px;
+	color: gray;
+	margin-left: 40px;
+	float: left;
+}
+.para1 img{
+	border-radius: 5px;
+	float: left;
+}
+.para2{
+	padding-top: 50px;
+	color: gray;
+	margin-left: 40px;
+	float: left;
+}
+.para2 img{
+	border-radius: 5px;
+	float: left;
+}
+.para3{
+	padding-top: 50px;
+	color: gray;
+	margin-left: 40px;
+	float: left;
+}
+.para3 img{
+	border-radius: 5px;
+	float: left;
+}
+.para4{
+	padding-top: 50px;
+	color: gray;
+	margin-left: 40px;
+	float: left;
+}
+.para4 img{
+	border-radius: 5px;
+	float: left;
+}
+.float{
+	float: left;
+}
+.para5{
+	padding-top: 50px;
+	color: gray;
+	margin-left: 40px;
+	float: left;
+}
+.para5 img{
+	border-radius: 5px;
+	float: left;
+}
+.para6{
+	padding-top: 50px;
+	color: gray;
+	margin-left: 40px;
+	float: left;
+}
+.para6 img{
+	border-radius: 5px;
+	float: left;
+}
+.footnaslov{
+	color: white;
+	margin-right: 20px;
+	font-size: 35px;
+	margin-top: 50px;
+	margin-left: 575px;
+}
+.tekst21{
+	color: gray;
+	margin-left: 575px;
+}
+.linkovi2{
+	margin-left: 575px;
+	margin-top: 35px;
+}
+.footer1{
+	background-color:#141414;
+	height: 100px;
+	float: left;
+	width: 1000px;
+}
+.tekst31{
+	color: gray;
+	text-align: center;
+	margin-top: 41px;
+}
+.deo21{
+	margin-left: 20px;
+	margin-top: 30px;
+	width: 500px;
+	float: left;
+}
+.deo31{
+	float: left;
+	width: 200px;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+.deo311{
+	float: left;
+	width: 200px;
+	margin-left: 500px;
+	margin-top: 30px;
+}
+.tekst13{
+	width: 500px;
+	text-align: left;
+	margin-top: 10px;
+	font-size: 14px;
+}
+.tekst22{
+	color: gray;
+	margin-top: 10px;
+}
+.deo25{
+	margin-top: 30px;
+	width: 1000px;
+	float: left;
+}
+.tekst15{
+	width: 1000px;
+	text-align: left;
+	margin-top: 10px;
+	font-size: 14px;
+}

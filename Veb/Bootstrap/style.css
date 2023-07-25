@@ -1,0 +1,139 @@
+
+.container{
+	width: 900px;
+	margin-bottom: 25px;
+}
+.col{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.width{
+	width: 900px;
+}
+.footer{
+	margin: 0px;
+	background-color: rgb(40,167,69);
+	width: 900px;
+	height: 250px;
+	padding-top: 20px;
+}
+.button{
+	margin-left: 100px;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #cc4d86;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+.ikonice{
+	float: right;
+	width: 400px;
+	margin-bottom: 50px;
+	margin-right: 50px;
+}
+.fa:hover {
+    opacity: 0.7;
+	color: rgb(40,167,69);
+}
+.fa{
+  padding: 10px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  float: right;
+}
+.Info{
+	color: white;
+	margin-left: 20px;
+	width: 500px;
+}
+.pratnja{
+	color: white;
+	float: left;
+	margin-left: 650px;
+	font-size: 25px;
+	margin-top: 0px;
+}
+.sportmania{
+	color: white;
+	background-color: rgb(40,167,69);
+	margin-top: 10px;
+	font-size: 90px;
+	width: 900px;
+}
+.naslov{
+	margin-left: 150px;
+	margin-bottom: 0px;
+}
+.mapa
+{
+	height: 600px;
+	width: 800px;
+	background-color: white;
+	margin-bottom: 20px;
+	margin-left: 50px;
+}
+.Lokac{
+	color: rgb(40,167,69);
+	margin-left: 250px;
+	margin-top: 20px;
+}
+.imejl{
+	text-align: center;
+	border: 2px solid rgb(40,167,69);
+	margin-top: 20px;
+	width: 400px;
+	margin-left: 240px;
+	
+}
+.lozinka{
+	text-align: center;
+	border: 2px solid rgb(40,167,69);
+	width: 400px;
+	margin-top: 20px;
+	margin-left: 240px;
+	height: 33px;
+}
+
+.imejl1{
+	color: rgb(40,167,69);
+	text-align: center;
+}
+.poruka{
+	width: 400px;
+	border-color: rgb(40,167,69);
+	margin-top: 20px;
+	resize: none;
+	margin-left: 240px;
+	margin-bottom: 45px;
+}
+.dugme{
+	margin-top: 20px;
+	margin-left: -230px;
+}
+.forma{
+	margin-top: 20px;
+	width: 1000px;
+	height: 420px;
+	margin-bottom: 75px;
+}
