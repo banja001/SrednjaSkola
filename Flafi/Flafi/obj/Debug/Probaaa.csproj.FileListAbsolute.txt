@@ -1,0 +1,8 @@
+C:\Users\PC\AppData\Local\Temporary Projects\Probaaa\bin\Debug\Probaaa.exe
+C:\Users\PC\AppData\Local\Temporary Projects\Probaaa\bin\Debug\Probaaa.pdb
+C:\Users\PC\AppData\Local\Temporary Projects\Probaaa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\AppData\Local\Temporary Projects\Probaaa\obj\Debug\Probaaa.Form1.resources
+C:\Users\PC\AppData\Local\Temporary Projects\Probaaa\obj\Debug\Probaaa.Properties.Resources.resources
+C:\Users\PC\AppData\Local\Temporary Projects\Probaaa\obj\Debug\Probaaa.csproj.GenerateResource.Cache
+C:\Users\PC\AppData\Local\Temporary Projects\Probaaa\obj\Debug\Probaaa.exe
+C:\Users\PC\AppData\Local\Temporary Projects\Probaaa\obj\Debug\Probaaa.pdb

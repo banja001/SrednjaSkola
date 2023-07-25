@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Flafi\Flafi\bin\Debug\Flafi.exe
+C:\Users\PC\Desktop\Flafi\Flafi\bin\Debug\Flafi.pdb
+C:\Users\PC\Desktop\Flafi\Flafi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Flafi\Flafi\obj\Debug\Probaaa.Form1.resources
+C:\Users\PC\Desktop\Flafi\Flafi\obj\Debug\Probaaa.Properties.Resources.resources
+C:\Users\PC\Desktop\Flafi\Flafi\obj\Debug\Flafi.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Flafi\Flafi\obj\Debug\Flafi.exe
+C:\Users\PC\Desktop\Flafi\Flafi\obj\Debug\Flafi.pdb
+C:\Users\PC\Desktop\Flafi\Flafi\obj\Debug\Probaaa.Resource2.resources

@@ -1,0 +1,90 @@
+C:\Users\PC\AppData\Local\Temporary Projects\Autici\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\AppData\Local\Temporary Projects\Autici\obj\Debug\Autici.Form1.resources
+C:\Users\PC\AppData\Local\Temporary Projects\Autici\obj\Debug\Autici.Properties.Resources.resources
+C:\Users\PC\AppData\Local\Temporary Projects\Autici\obj\Debug\Autici.csproj.GenerateResource.Cache
+C:\Users\PC\AppData\Local\Temporary Projects\Autici\bin\Debug\Autici.exe
+C:\Users\PC\AppData\Local\Temporary Projects\Autici\bin\Debug\Autici.pdb
+C:\Users\PC\AppData\Local\Temporary Projects\Autici\obj\Debug\Autici.exe
+C:\Users\PC\AppData\Local\Temporary Projects\Autici\obj\Debug\Autici.pdb
+C:\Users\PC\Desktop\Autici\Autici\obj\Debug\Autici.exe
+C:\Users\PC\Desktop\Autici\Autici\obj\Debug\Autici.pdb
+C:\Users\PC\Desktop\Autici\Autici\bin\Debug\Autici.exe
+C:\Users\PC\Desktop\Autici\Autici\bin\Debug\Autici.pdb
+C:\Users\PC\Desktop\Autici\Autici\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Autici\Autici\obj\Debug\Autici.Form1.resources
+C:\Users\PC\Desktop\Autici\Autici\obj\Debug\Autici.Properties.Resources.resources
+C:\Users\PC\Desktop\Autici\Autici\obj\Debug\Autici.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Autici\Autici\obj\Debug\Autici.Form2.resources
+H:\Autici\Autici\obj\Debug\Autici.exe
+H:\Autici\Autici\obj\Debug\Autici.pdb
+H:\Autici\Autici\bin\Debug\Autici.exe
+H:\Autici\Autici\bin\Debug\Autici.pdb
+H:\Autici\Autici\obj\Debug\ResolveAssemblyReference.cache
+H:\Autici\Autici\obj\Debug\Autici.Form1.resources
+H:\Autici\Autici\obj\Debug\Autici.Form2.resources
+H:\Autici\Autici\obj\Debug\Autici.Properties.Resources.resources
+H:\Autici\Autici\obj\Debug\Autici.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Kraj\Autici\Autici\obj\Debug\Autici.exe
+C:\Users\PC\Desktop\Kraj\Autici\Autici\obj\Debug\Autici.pdb
+C:\Users\PC\Desktop\Kraj\Autici\Autici\bin\Debug\Autici.exe
+C:\Users\PC\Desktop\Kraj\Autici\Autici\bin\Debug\Autici.pdb
+C:\Users\PC\Desktop\Kraj\Autici\Autici\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Kraj\Autici\Autici\obj\Debug\Autici.Form1.resources
+C:\Users\PC\Desktop\Kraj\Autici\Autici\obj\Debug\Autici.Form2.resources
+C:\Users\PC\Desktop\Kraj\Autici\Autici\obj\Debug\Autici.Properties.Resources.resources
+C:\Users\PC\Desktop\Kraj\Autici\Autici\obj\Debug\Autici.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Kraj\Autici\Autici\obj\Debug\Autici.Resource1.resources
+H:\Kraj\Autici\Autici\obj\Debug\Autici.exe
+H:\Kraj\Autici\Autici\obj\Debug\Autici.pdb
+H:\Kraj\Autici\Autici\bin\Debug\Autici.exe
+H:\Kraj\Autici\Autici\bin\Debug\Autici.pdb
+H:\Kraj\Autici\Autici\obj\Debug\ResolveAssemblyReference.cache
+H:\Kraj\Autici\Autici\obj\Debug\Autici.Form1.resources
+H:\Kraj\Autici\Autici\obj\Debug\Autici.Form2.resources
+H:\Kraj\Autici\Autici\obj\Debug\Autici.Properties.Resources.resources
+H:\Kraj\Autici\Autici\obj\Debug\Autici.Resource1.resources
+H:\Kraj\Autici\Autici\obj\Debug\Autici.csproj.GenerateResource.Cache
+H:\Kraj\Autici\Autici\obj\Debug\Autici.Form3.resources
+H:\Kraj\Autici\Autici\bin\Debug\Autici.exe.config
+F:\Kraj\Autici\Autici\bin\Debug\Autici.exe.config
+F:\Kraj\Autici\Autici\obj\Debug\Autici.exe
+F:\Kraj\Autici\Autici\obj\Debug\Autici.pdb
+H:\Kraj\Autici\Autici\bin\Debug\Interop.WMPLib.dll
+H:\Kraj\Autici\Autici\bin\Debug\AxInterop.WMPLib.dll
+H:\Kraj\Autici\Autici\obj\Debug\Interop.WMPLib.dll
+H:\Kraj\Autici\Autici\obj\Debug\AxInterop.WMPLib.dll
+H:\Kraj\Autici\Autici\obj\Debug\Autici.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\New folder\Autici\Autici\bin\Debug\Autici.exe.config
+C:\Users\PC\Desktop\New folder\Autici\Autici\obj\Debug\Interop.WMPLib.dll
+C:\Users\PC\Desktop\New folder\Autici\Autici\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\Desktop\New folder\Autici\Autici\obj\Debug\Autici.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\New folder\Autici\Autici\obj\Debug\Autici.exe
+C:\Users\PC\Desktop\New folder\Autici\Autici\obj\Debug\Autici.pdb
+C:\Users\PC\Desktop\New folder\Autici\Autici\bin\Debug\Autici.exe
+C:\Users\PC\Desktop\New folder\Autici\Autici\bin\Debug\Autici.pdb
+C:\Users\PC\Desktop\New folder\Autici\Autici\bin\Debug\Interop.WMPLib.dll
+C:\Users\PC\Desktop\New folder\Autici\Autici\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\Desktop\New folder\Autici\Autici\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\New folder\Autici\Autici\obj\Debug\Autici.Form1.resources
+C:\Users\PC\Desktop\New folder\Autici\Autici\obj\Debug\Autici.Form2.resources
+C:\Users\PC\Desktop\New folder\Autici\Autici\obj\Debug\Autici.Properties.Resources.resources
+C:\Users\PC\Desktop\New folder\Autici\Autici\obj\Debug\Autici.Resource1.resources
+C:\Users\PC\Desktop\New folder\Autici\Autici\obj\Debug\Autici.Form3.resources
+C:\Users\PC\Desktop\New folder\Autici\Autici\obj\Debug\Autici.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Igrice\Autici\Autici\bin\Debug\Autici.exe.config
+C:\Users\PC\Desktop\Igrice\Autici\Autici\obj\Debug\Interop.WMPLib.dll
+C:\Users\PC\Desktop\Igrice\Autici\Autici\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\Desktop\Igrice\Autici\Autici\obj\Debug\Autici.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\Igrice\Autici\Autici\obj\Debug\Autici.exe
+C:\Users\PC\Desktop\Igrice\Autici\Autici\obj\Debug\Autici.pdb
+C:\Users\PC\Desktop\Igrice\Autici\Autici\bin\Debug\Autici.exe
+C:\Users\PC\Desktop\Igrice\Autici\Autici\bin\Debug\Autici.pdb
+C:\Users\PC\Desktop\Igrice\Autici\Autici\bin\Debug\Interop.WMPLib.dll
+C:\Users\PC\Desktop\Igrice\Autici\Autici\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\Desktop\Igrice\Autici\Autici\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Igrice\Autici\Autici\obj\Debug\Autici.Form1.resources
+C:\Users\PC\Desktop\Igrice\Autici\Autici\obj\Debug\Autici.Form2.resources
+C:\Users\PC\Desktop\Igrice\Autici\Autici\obj\Debug\Autici.Properties.Resources.resources
+C:\Users\PC\Desktop\Igrice\Autici\Autici\obj\Debug\Autici.Resource1.resources
+C:\Users\PC\Desktop\Igrice\Autici\Autici\obj\Debug\Autici.Form3.resources
+C:\Users\PC\Desktop\Igrice\Autici\Autici\obj\Debug\Autici.csproj.GenerateResource.Cache

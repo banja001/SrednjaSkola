@@ -1,0 +1,41 @@
+C:\Users\PC\AppData\Local\Temporary Projects\Pucacina\bin\Debug\Pucacina.exe
+C:\Users\PC\AppData\Local\Temporary Projects\Pucacina\bin\Debug\Pucacina.pdb
+C:\Users\PC\AppData\Local\Temporary Projects\Pucacina\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\AppData\Local\Temporary Projects\Pucacina\obj\Debug\Pucacina.Form1.resources
+C:\Users\PC\AppData\Local\Temporary Projects\Pucacina\obj\Debug\Pucacina.Properties.Resources.resources
+C:\Users\PC\AppData\Local\Temporary Projects\Pucacina\obj\Debug\Pucacina.csproj.GenerateResource.Cache
+C:\Users\PC\AppData\Local\Temporary Projects\Pucacina\obj\Debug\Pucacina.exe
+C:\Users\PC\AppData\Local\Temporary Projects\Pucacina\obj\Debug\Pucacina.pdb
+C:\Users\PC\AppData\Local\Temporary Projects\Pucacina\obj\Debug\Pucacina.Form2.resources
+C:\Users\PC\Desktop\Pucacina\Pucacina\obj\Debug\Pucacina.exe
+C:\Users\PC\Desktop\Pucacina\Pucacina\obj\Debug\Pucacina.pdb
+C:\Users\PC\Desktop\Pucacina\Pucacina\bin\Debug\Pucacina.exe
+C:\Users\PC\Desktop\Pucacina\Pucacina\bin\Debug\Pucacina.pdb
+C:\Users\PC\Desktop\Pucacina\Pucacina\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Pucacina\Pucacina\obj\Debug\Pucacina.Form1.resources
+C:\Users\PC\Desktop\Pucacina\Pucacina\obj\Debug\Pucacina.Form2.resources
+C:\Users\PC\Desktop\Pucacina\Pucacina\obj\Debug\Pucacina.Properties.Resources.resources
+C:\Users\PC\Desktop\Pucacina\Pucacina\obj\Debug\Pucacina.csproj.GenerateResource.Cache
+E:\Za Bg\Pucacina\Pucacina\obj\Debug\Pucacina.exe
+E:\Za Bg\Pucacina\Pucacina\obj\Debug\Pucacina.pdb
+E:\Za Bg\Pucacina\Pucacina\bin\Debug\Pucacina.exe
+E:\Za Bg\Pucacina\Pucacina\bin\Debug\Pucacina.pdb
+E:\Za Bg\Pucacina\Pucacina\obj\Debug\ResolveAssemblyReference.cache
+E:\Za Bg\Pucacina\Pucacina\obj\Debug\Pucacina.Form1.resources
+E:\Za Bg\Pucacina\Pucacina\obj\Debug\Pucacina.Form2.resources
+E:\Za Bg\Pucacina\Pucacina\obj\Debug\Pucacina.Properties.Resources.resources
+E:\Za Bg\Pucacina\Pucacina\obj\Debug\Pucacina.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Debug\Pucacina.Form1.resources
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Debug\Pucacina.Form2.resources
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Debug\Pucacina.Properties.Resources.resources
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Debug\Pucacina.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Debug\Pucacina.Resource1.resources
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\bin\Debug\Shoot or die.exe.manifest
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\bin\Debug\Shoot or die.application
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\bin\Debug\Shoot or die.exe
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\bin\Debug\Shoot or die.pdb
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Debug\Shoot or die.exe.manifest
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Debug\Shoot or die.application
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Debug\Shoot or die.exe
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Debug\Shoot or die.pdb

@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\bin\Release\Shoot or die.exe.manifest
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\bin\Release\Shoot or die.application
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\bin\Release\Shoot or die.exe
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\bin\Release\Shoot or die.pdb
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Release\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Release\Pucacina.Form1.resources
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Release\Pucacina.Form2.resources
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Release\Pucacina.Properties.Resources.resources
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Release\Pucacina.Resource1.resources
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Release\Pucacina.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Release\Shoot or die.exe.manifest
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Release\Shoot or die.application
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Release\Shoot or die.exe
+C:\Users\PC\Desktop\Igrice\Pucacina\Pucacina\obj\Release\Shoot or die.pdb
