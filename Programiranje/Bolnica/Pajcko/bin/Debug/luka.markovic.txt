@@ -1,0 +1,93 @@
+Ime: Predrag
+Prezime: Vucetic
+JMBG: 1207001780015
+Adresa: Cibukovacki partizani 41
+Datum dolaska: 14-Oct-19
+Datum odlaska: 19-Oct-19
+Otisao pre 12h: Da
+Ukupno dana: 5
+LEKOVI: 
+Alkohol(70%)
+Alkohol(70%)
+Bromazepam
+Povidon jod(7.5%)
+Racun: 6874RSD
+------------------------
+
+Ime: Vojkan
+Prezime: Vukovic
+JMBG: 1912965859623
+Adresa: Unska 78/4
+Datum dolaska: 30-Dec-19
+Datum odlaska: 03-Jan-20
+Otisao pre 12h: Ne
+Ukupno dana: 5
+LEKOVI: 
+Povidon jod(7.5%)
+Racun: 9106RSD
+------------------------
+Ime: Marinko
+Prezime: Rokvic
+JMBG: 1912978889965
+Adresa: Kralja Milosa 89
+Datum dolaska: 30-Dec-19
+Datum odlaska: 03-Jan-20
+Otisao pre 12h: Da
+Ukupno dana: 4
+LEKOVI: 
+Hidrogen(3%)
+Bromazepam
+Medrol
+Racun: 6654RSD
+------------------------
+Ime: Nikola
+Prezime: Rokvic
+JMBG: 1203996489615
+Adresa: Kneza Mihajla 89/5
+Datum dolaska: 30-Dec-19
+Datum odlaska: 03-Jan-20
+Otisao pre 12h: Ne
+Ukupno dana: 5
+LEKOVI: 
+Medrol
+Nirmin
+Racun: 7960RSD
+------------------------
+Ime: Nikola
+Prezime: Andric
+JMBG: 2912001780022
+Adresa: Radnickih bataljona 78
+Datum dolaska: 12/30/2019
+Datum odlaska: 1/3/2020
+Otisao pre 12h: Da
+Ukupno dana: 4
+LEKOVI: 
+Panklav
+Alkohol(70%)
+Tilzem
+Racun: 6362RSD
+------------------------
+Ime: Marko
+Prezime: Markovic
+JMBG: 1202003182593
+Adresa: MArkova 45
+Datum dolaska: 30.12.2019.
+Datum odlaska: 2.1.2020.
+Otisao pre 12h: Ne
+Ukupno dana: 4
+LEKOVI: 
+Glaumol
+Racun: 6167RSD
+------------------------
+Ime: gsdg
+Prezime: sdgsdg
+JMBG: 1232456789123
+Adresa: gsdsdg
+Datum dolaska: 18.12.2019.
+Datum odlaska: 30.12.2019.
+Otisao pre 12h: Ne
+Ukupno dana: 13
+LEKOVI: 
+Glaumol
+Racun: 19667RSD
+------------------------

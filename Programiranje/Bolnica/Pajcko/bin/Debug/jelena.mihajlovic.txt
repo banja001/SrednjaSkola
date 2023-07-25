@@ -1,0 +1,63 @@
+Ime: Milan
+Prezime: Miletic
+JMBG: 1309977891236
+Adresa: Markoviceva 67/8
+Datum dolaska: 01-Jan-01
+Datum odlaska: 07-Jan-20
+LEKOVI: 
+Nirmin
+Runac
+Medrol
+Racun: 11416RSD
+------------------------
+Ime: Vojin
+Prezime: Besevic
+JMBG: 2910001780011
+Adresa: Cara Lazara 8A/9
+Datum dolaska: 18-Dec-19
+Datum odlaska: 02-Jan-20
+Ukupno dana: 16
+LEKOVI: 
+Hidrogen(3%)
+Nirmin
+Glaumol
+Racun: 24539RSD
+------------------------
+Ime: qwerty
+Prezime: tastatura
+JMBG: 1237894567890
+Adresa: Dimitrijeva 67
+Datum dolaska: 29-Dec-19
+Datum odlaska: 02-Jan-20
+Otisao pre 12h: Da
+Ukupno dana: 5
+LEKOVI: 
+Povidon jod(7.5%)
+Racun: 6106RSD
+------------------------
+Ime: Nemanja
+Prezime: Milasinovic
+JMBG: 2806946780036
+Adresa: Markoviceva 5
+Datum dolaska: 30-Dec-19
+Datum odlaska: 04-Jan-20
+Otisao pre 12h: Da
+Ukupno dana: 5
+LEKOVI: 
+Bensedin
+Bromazepam
+Racun: 8173RSD
+------------------------
+Ime: Marija
+Prezime: Blagojevic
+JMBG: 1901001780022
+Adresa: Mihajla Pupina 45
+Datum dolaska: 1/9/2020
+Datum odlaska: 1/11/2020
+Otisao pre 12h: Ne
+Ukupno dana: 3
+LEKOVI: 
+Tilzem
+Alkohol(70%)
+Racun: 9230RSD
+------------------------

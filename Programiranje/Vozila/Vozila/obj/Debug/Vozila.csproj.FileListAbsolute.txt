@@ -1,0 +1,10 @@
+H:\4. godina\Programiranje\Vozila\Vozila\bin\Debug\Vozila.exe
+H:\4. godina\Programiranje\Vozila\Vozila\bin\Debug\Vozila.pdb
+H:\4. godina\Programiranje\Vozila\Vozila\obj\Debug\ResolveAssemblyReference.cache
+H:\4. godina\Programiranje\Vozila\Vozila\obj\Debug\Vozila.Form1.resources
+H:\4. godina\Programiranje\Vozila\Vozila\obj\Debug\Vozila.Properties.Resources.resources
+H:\4. godina\Programiranje\Vozila\Vozila\obj\Debug\Vozila.csproj.GenerateResource.Cache
+H:\4. godina\Programiranje\Vozila\Vozila\obj\Debug\Vozila.exe
+H:\4. godina\Programiranje\Vozila\Vozila\obj\Debug\Vozila.pdb
+E:\4. godina\Programiranje\Vozila\Vozila\obj\Debug\Vozila.exe
+E:\4. godina\Programiranje\Vozila\Vozila\obj\Debug\Vozila.pdb

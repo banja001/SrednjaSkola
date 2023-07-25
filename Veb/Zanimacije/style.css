@@ -1,0 +1,106 @@
+.a{
+	float: left;
+	width: 600px;
+	height: 600px;
+	margin: 10px;
+}
+.polja{
+	width:200px;
+	height:200px;
+	background-color: #3b75d3;
+	margin: 0;
+	padding: 0;
+}
+.sad{
+	width: 600px;
+	margin-bottom: 0 !important;
+	padding: 0;
+}
+.polja1{
+	width:200px;
+	height:200px;
+	background-image: url("na/9.jpg");
+	margin: 0;
+	padding: 0;
+}
+.polja2{
+	width:200px;
+	height:200px;
+	background-image: url("na/8.jpg");
+	margin: 0;
+	padding: 0;
+}
+.polja3{
+	width:200px;
+	height:200px;
+	background-image: url("na/7.jpg");
+	margin: 0;
+	padding: 0;
+}
+.polja4{
+	width:200px;
+	height:200px;
+	background-image: url("na/6.jpg");
+	margin: 0;
+	padding: 0;
+}
+.polja5{
+	width:200px;
+	height:200px;
+	background-image: url("na/5.jpg");
+	margin: 0;
+	padding: 0;
+}
+.polja6{
+	width:200px;
+	height:200px;
+	background-image: url("na/4.jpg");
+	margin: 0;
+	padding: 0;
+}
+.polja7{
+	width:200px;
+	height:200px;
+	background-image: url("na/3.jpg");
+	margin: 0;
+	padding: 0;
+}
+.polja8{
+	width:200px;
+	height:200px;
+	background-image: url("na/2.jpg");
+	margin: 0;
+	padding: 0;
+}
+.polja9{
+	width:200px;
+	height:200px;
+	background-image: url("na/1.jpg");
+	margin: 0;
+	padding: 0;
+}
+.slike{
+	width: 600px;
+	height: 400px;
+	background-image: url('na/ode.jpg');
+}
+.slika{
+	background-image: url('na/majmun.jpg');
+	width: 100px;
+	height: 125px;
+}
+.cela{
+	background-image: url('na/bluemarble.jpg');
+	width: 600px;
+	height: 600px;
+}
+.cvika{
+	background-image: url('na/majmun.jpg');
+	width: 600px !important;
+	height: 375px !important;
+}
+.kon{
+	width: 300px;
+	height: 300px;
+	margin: auto;
+}

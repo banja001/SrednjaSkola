@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+	<head>
+        <title>JQuery</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="jquery.js"></script>
+        <link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body class="text-center">
+        <section>
+            <h1 class="text-primary">Prikazi/sakrij</h1>
+            <h3 class="text-secondary tekst1">Tekst koji treba biti sakriven</h3>
+            <img src="img/1.png" class="img-fluid tekst1 slika1 mx-auto rounded">
+            <button type="button" class="btn btn-primary button-show1">Prikazi</button>
+            <button type="button" class="btn btn-danger button-hide1">Sakrij</button>
+        </section>
+        <hr>
+        <section>
+                <h1 class="text-primary">Slide/Animate</h1>
+                <h3 class="text-secondary slide-visible underline"><u>Klikni me</u></h3>
+                <h3 class="text-secondary slide-hidden">Tekst</h3>
+                <button type="button" class="btn btn-primary animate-button">Pokreni animaciju</button>
+                <button type="button" class="btn btn-primary stop-button">Zaustavi animaciju</button>
+                <div class="animate-div">Tekst</div>
+        </section>
+        <hr>
+        <section>
+                <h1 class="text-primary">Add/Remove</h1>
+                <div class="row">
+                        <div class="col">
+                        <div class="card" style="width: 18rem;">
+                        <img class="card-img-top" src="img/tv.jpg" alt="Card image cap">
+                        <div class="card-body">
+                                <h5 class="card-title">TV</h5>
+                                <button type="button" class="btn btn-primary tv-button dodaj-button">Dodaj u korpu</button>
+                        </div>
+                        </div>
+                        </div>
+                        <div class="col">
+                        <div class="card" style="width: 18rem;">
+                        <img class="card-img-top" src="img/fotoaparat.jpg" alt="Card image cap">
+                        <div class="card-body">
+                                <h5 class="card-title">Fotoaparat</h5>
+                                <button type="button" class="btn btn-primary fotoaparat-button dodaj-button">Dodaj u korpu</button>
+                        </div>
+                        </div>
+                        </div>
+                        <div class="col">
+                        <div class="card" style="width: 18rem;">
+                        <img class="card-img-top" src="img/alarm.jpg" alt="Card image cap">
+                        <div class="card-body">
+                                <h5 class="card-title">Alarm</h5>
+                                <button type="button" class="btn btn-primary alarm-button dodaj-button">Dodaj u korpu</button>
+                        </div>
+                        </div>
+                        </div>
+                        <div class="col">
+                        <div class="card" style="width: 18rem;">
+                        <img class="card-img-top" src="img/laptop.jpg" alt="Card image cap">
+                        <div class="card-body">
+                                <h5 class="card-title">Laptop</h5>
+                                <button type="button" class="btn btn-primary laptop-button dodaj-button">Dodaj u korpu</button>
+                        </div>
+                        </div>
+                        </div>
+                </div>
+                <h3 class="ds text-secondary">U korpu ste dodali <div id="brojac">0</div> proizvoda.</h3>
+                <div class="brojaci numeracija d-inline" id="brojacTv"></div><p class="brojaci d-inline"> TV/a</p>
+                <br>
+                <div class="brojaci numeracija d-inline" id="brojacFotoaparat"></div><p class="brojaci d-inline"> FOTOAPARAT/a</p>
+                <br>
+                <div class="brojaci numeracija d-inline" id="brojacAlarm"></div><p class="brojaci d-inline"> ALARM/a</p>
+                <br>
+                <div class="brojaci numeracija d-inline" id="brojacLaptop"></div><p class="brojaci d-inline"> LAPTOP/a</p>
+                <ol>
+                </ol>
+                <br>
+                <button type="button" class="btn btn-primary remove-button">Obrisi</button>
+        </section>
+        <hr>
+	</body>
+</html>

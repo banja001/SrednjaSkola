@@ -1,0 +1,124 @@
+Ime: Natasa
+Prezime: Maric
+JMBG: 1906002112368
+Adresa: Dositejeva 55
+Datum dolaska: 12-Sep-19
+Datum odlaska: 12-Oct-19
+LEKOVI: 
+Omeprol
+Tilzem
+Povidon jod(7.5%)
+Nirmin
+Racun: 138643RSD
+------------------------
+Ime: Marko
+Prezime: NIkolic
+JMBG: 1206994231126
+Adresa: Dositejeva 89
+Datum dolaska: 27-Dec-19
+Datum odlaska: 04-Jan-20
+Ukupno dana: 9
+LEKOVI: 
+Lemod
+Alkohol(70%)
+Racun: 13701RSD
+------------------------
+Ime: Nevena
+Prezime: Gligorov
+JMBG: 1209005189455
+Adresa: Dositejeva 68/5
+Datum dolaska: 24-Dec-19
+Datum odlaska: 27-Dec-19
+Ukupno dana: 4
+LEKOVI: 
+Alkohol(70%)
+Nirmin
+Hidrogen(3%)
+Panklav
+Racun: 9656RSD
+------------------------
+Ime: Marko
+Prezime: Markovic
+JMBG: 1628005138945
+Adresa: Milosa Velikog 57B
+Datum dolaska: 31-Dec-19
+Datum odlaska: 03-Jan-20
+Otisao pre 12h: Ne
+Ukupno dana: 4
+LEKOVI: 
+Glaumol
+Povidon jod(7.5%)
+Salofalk
+Povidon jod(7.5%)
+Racun: 6476RSD
+------------------------
+Ime: Milos
+Prezime: Marinkovic
+JMBG: 3012994586912
+Adresa: Markova 778
+Datum dolaska: 18-Jan-18
+Datum odlaska: 18-Jan-20
+Otisao pre 12h: Ne
+Ukupno dana: 1
+LEKOVI: 
+Kaletra
+Racun: 1825RSD
+------------------------
+Ime: Marko
+Prezime: Marinkovic
+JMBG: 1709994123365
+Adresa: Markoviceva 57
+Datum dolaska: 17-Jan-18
+Datum odlaska: 14-Jan-20
+Otisao pre 12h: Ne
+Ukupno dana: 728
+LEKOVI: 
+Bromazepam
+Racun: 2184464RSD
+------------------------
+Ime: rywery
+Prezime: fydfyf
+JMBG: 0901001020103
+Adresa: ydfydf
+Datum dolaska: 1/10/2020
+Datum odlaska: 1/11/2020
+Otisao pre 12h: Ne
+Ukupno dana: 2
+LEKOVI: 
+Medrol
+Racun: 3139RSD
+------------------------
+Ime: dgsdf
+Prezime: hsdfhsd
+JMBG: 1234567890125
+Adresa: gsdgsd
+Datum dolaska: 1/2/2020
+Datum odlaska: 1/14/2020
+Otisao pre 12h: Ne
+Ukupno dana: 13
+Ime: Marko
+Prezime: Markovic
+JMBG: 1512004597184
+Adresa: NEka tako 45
+Datum dolaska: 15.02.2023.
+Datum odlaska: 21.02.2023.
+Otisao pre 12h: Da
+Ukupno dana: 6
+LEKOVI: 
+Glaumol
+Nirmin
+Racun: 9488RSD
+------------------------
+Ime: Mark
+Prezime: Radetich
+JMBG: 1234567891023
+Adresa: dsfds
+Datum dolaska: 15.05.2023.
+Datum odlaska: 15.05.2023.
+Otisao pre 12h: Da
+Ukupno dana: 0
+LEKOVI: 
+Bensedin
+Nirmin
+Racun: 2080478826RSD
+------------------------

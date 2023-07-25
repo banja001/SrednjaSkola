@@ -1,0 +1,172 @@
+.container-fluid{
+	padding: 0;
+}
+.svetlozelena{
+	background-color: #90EE90;
+}
+.tamnozelena{
+	color: #4B0082;
+	text-decoration: none;
+}
+
+.search-button{
+	background-color: #556B2F;
+	border-color: #556B2F;
+}
+.search{
+	margin-left: auto;
+}
+p{
+	margin-bottom: 0px;
+}
+.border{
+	border: 1px solid ;
+}
+.mala{
+	width: 20px;
+	height: 20px;
+}
+.crvena{
+	background-color: #d80000;
+}
+.zelena{
+	background-color: #3CB371;
+}
+.zuta{
+	background-color: #F0E68C;
+}
+.plava{
+	background-color: #008B8B;
+}
+.bela{
+	background-color: #FFFFFF;
+}
+.tamnocrvena{
+	background-color: #FF6347;
+}
+.narandzasta{
+	background-color: #FF4500;
+}
+.levo{
+
+	margin-right: 10%;
+}
+.sirina{
+	width: 115px;
+	text-align: center;
+}
+li a{
+	text-decoration: none;
+}
+.naslov{
+	color: #3CB371;
+	padding-left: 1%;
+}
+.teren{
+	background-image: url('Img/teren.png');
+	height: 350px;
+	width: 100%;
+	background-repeat: no-repeat;
+	padding-left: 10%;
+}
+.lopta{
+	background-image: url('Img/lopta.jpg');
+	background-repeat: no-repeat;
+	width: 350%;
+	height: auto;
+}
+.margina{
+	padding-left: 1%;
+}
+.row{
+	margin: 0px;
+}
+.peding{
+	padding-right: 4%;
+	padding-left: 1%;
+}	
+.footer{
+	width: 100%;
+	height: 400px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 100px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #8a3ab9;
+  color: white;
+}
+.ikonice{
+	padding-top: 20%;
+}
+.veliko{
+	font-size: 30px;
+}
+.ped{
+	padding-top: 2%;
+}
+.loptakos{
+	background-image: url('Img/loptakos.jpg');
+	background-repeat: no-repeat;
+	width: 350%;
+	height: auto;
+}
+.naslov1{
+	color: #d80000;
+	padding-left: 1%;
+}
+.terenkos{
+	background-image: url('Img/terenkos.jpg');
+	height: 350px;
+	width: 100%;
+	background-repeat: no-repeat;
+	padding-left: 10%;
+}
+.loptaodb{
+	background-image: url('Img/loptaodb.jpeg');
+	background-repeat: no-repeat;
+	width: 350%;
+	height: auto;
+}
+.naslov2{
+	padding-left: 1%;
+}
+.terenodb{
+	background-image: url('Img/terenodb.jpg');
+	height: 350px;
+	width: 100%;
+	background-repeat: no-repeat;
+	padding-left: 10%;
+}
+.bor{
+	border: 2px solid black;
+}

@@ -1,0 +1,53 @@
+Ime: Milica
+Prezime: Hodzic
+JMBG: 2903994789912
+Adresa: Unska 86
+Datum dolaska: 01-Jan-20
+Datum odlaska: 09-Jan-20
+Ukupno dana: 9
+LEKOVI: 
+Lemod
+Bensedin
+Salofalk
+Racun: 13855RSD
+------------------------
+Ime: Marko
+Prezime: Pantic
+JMBG: 3007978564612
+Adresa: Danska 85
+Datum dolaska: 19-Dec-19
+Datum odlaska: 03-Jan-20
+Ukupno dana: 16
+LEKOVI: 
+Medrol
+Medrol
+Povidon jod(7.5%)
+Racun: 22884RSD
+------------------------
+Ime: Zivorad
+Prezime: Vukovic
+JMBG: 2709001780056
+Adresa: Milocaj 277
+Datum dolaska: 30-Dec-19
+Datum odlaska: 02-Jan-20
+Ukupno dana: 4
+LEKOVI: 
+Glaumol
+Bromazepam
+Zaxan
+Racun: 5303RSD
+------------------------
+Ime: Marija
+Prezime: Savkovic
+JMBG: 1806996785069
+Adresa: Zicki put 56
+Datum dolaska: 30-Dec-19
+Datum odlaska: 02-Jan-20
+Otisao pre 12h: Da
+Ukupno dana: 3
+LEKOVI: 
+Diazepam
+Alkohol(70%)
+Panklav
+Racun: 3367RSD
+------------------------

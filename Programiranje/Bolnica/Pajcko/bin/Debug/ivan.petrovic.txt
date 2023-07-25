@@ -1,0 +1,101 @@
+Ime: Dimitrije
+Prezime: Manic
+JMBG: 1209996123678
+Adresa: Majina 56
+Datum dolaska: 30-Dec-19
+Datum odlaska: 02-Jan-20
+LEKOVI: 
+Glaumol
+Nirmin
+Medrol
+Racun: 6627RSD
+------------------------
+Ime: Marko
+Prezime: Markovic
+JMBG: 1234567981230
+Adresa: cgjbknl
+Datum dolaska: 27-Dec-19
+Datum odlaska: 01-Jan-20
+LEKOVI: 
+Kaletra
+Kaletra
+Racun: 8150RSD
+------------------------
+Ime: Ivana
+Prezime: Marinkovic
+JMBG: 1605006789621
+Adresa: Markovica 78
+Datum dolaska: 30-Dec-19
+Datum odlaska: 05-Jan-20
+Otisao pre 12h: Da
+Ukupno dana: 6
+LEKOVI: 
+Diazepam
+Povidon jod(7.5%)
+Racun: 9189RSD
+------------------------
+Ime: Stanko
+Prezime: Pletikosic
+JMBG: 1909009090947
+Adresa: Stankoviceva 69
+Datum dolaska: 30-Dec-19
+Datum odlaska: 05-Jan-20
+Otisao pre 12h: Ne
+Ukupno dana: 7
+LEKOVI: 
+Povidon jod(7.5%)
+Povidon jod(7.5%)
+Racun: 10712RSD
+------------------------
+Ime: Marijaba
+Prezime: Markovic
+JMBG: 1911002369852
+Adresa: Adresa 123
+Datum dolaska: 07-Jun-18
+Datum odlaska: 03-Jan-20
+Otisao pre 12h: Ne
+Ukupno dana: 576
+LEKOVI: 
+Medrol
+Runac
+Racun: 864595RSD
+------------------------
+Ime: Marko
+Prezime: Petrovic
+JMBG: 1609997986952
+Adresa: Aredsaf 155
+Datum dolaska: 15-Jun-18
+Datum odlaska: 03-Jan-20
+Otisao pre 12h: Da
+Ukupno dana: 567
+LEKOVI: 
+Salofalk
+Tilzem
+Racun: 850675RSD
+------------------------
+Ime: Andrija
+Prezime: Bakracevic
+JMBG: 1234567890123
+Adresa: Beogradska 45
+Datum dolaska: 01-Jan-20
+Datum odlaska: 09-Jan-20
+Otisao pre 12h: Ne
+Ukupno dana: 9
+LEKOVI: 
+Lemod
+Povidon jod(7.5%)
+Racun: 25655RSD
+------------------------
+Ime: Marko
+Prezime: Markovic
+JMBG: 2912001780022
+Adresa: Dositejeva 86
+Datum dolaska: 30.12.2019.
+Datum odlaska: 3.1.2020.
+Otisao pre 12h: Da
+Ukupno dana: 4
+LEKOVI: 
+Omeprol
+Povidon jod(7.5%)
+Racun: 6244RSD
+------------------------
